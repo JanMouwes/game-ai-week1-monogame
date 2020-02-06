@@ -1,0 +1,8 @@
+
+.vs/
+MonogameSteeringCS/obj/
+MonogameSteeringCS/bin/
+packages/*
+/.idea/*
+
+MonogameSteeringCS.sln.DotSettings.user
